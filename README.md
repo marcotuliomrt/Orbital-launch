@@ -1,2 +1,2 @@
-# Orbital-launch-
+# Orbital-launch
 Orital launch modeling 
